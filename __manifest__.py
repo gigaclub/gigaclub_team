@@ -6,7 +6,7 @@
     'author': 'GigaClub',
     'website': 'https://GigaClub.net/',
     'license': 'GPL-3',
-    'depends': ['gigaclub_base'],
+    'depends': ['gigaclub_requests'],
     'data': ['views/gc_team_view.xml', 'views/menu_views.xml', 'views/gc_user_view.xml', 'security/ir.model.access.csv'],
     'installable': True,
     'auto_install': False
